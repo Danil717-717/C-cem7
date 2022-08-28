@@ -1,0 +1,15 @@
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\bin\Debug\net6.0\DZ_Task_52.exe
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\bin\Debug\net6.0\DZ_Task_52.deps.json
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\bin\Debug\net6.0\DZ_Task_52.runtimeconfig.json
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\bin\Debug\net6.0\DZ_Task_52.dll
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\bin\Debug\net6.0\DZ_Task_52.pdb
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\DZ_Task_52.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\DZ_Task_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\DZ_Task_52.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\DZ_Task_52.AssemblyInfo.cs
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\DZ_Task_52.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\DZ_Task_52.dll
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\refint\DZ_Task_52.dll
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\DZ_Task_52.pdb
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\DZ_Task_52.genruntimeconfig.cache
+C:\Users\Данил\Desktop\SEM7_C#\DZ_Task_52\obj\Debug\net6.0\ref\DZ_Task_52.dll
