@@ -35,18 +35,18 @@ void PrintMatrix(int[,] array)
 
 }
 
-void srAr(int[,] array)
+void SredneeArifmetic(int[,] array)
 {
-    
-    int srAr = 0;
-    for (int i = 0; i < array.GetLength(0); i++)
+
+    for (int i = 0; i < array.GetLength(1); i++)
     {
-        int summ = 0;
-        for (int j = 0; j < array.GetLength(1); j++)
+        double arithmeticMean = 0;
+        for (int j = 0; j < array.GetLength(0); j++)
         {
-            summ += array[i, j];
+            arithmeticMean += array[j, i];
         }
-        Console.WriteLine($"Сумма элементов {i+1}-й строки равна {summ}");
+        arithmeticMean = Math.Round(arithmeticMean / array.GetLength(0), 1);
+        Console.WriteLine($"Среднее арифметическое {i + 1} столбца ->  {arithmeticMean}");
     }
         //Console.WriteLine($"Cреднее арифметическое элементов столбца {j + 1} = {(double)srAr / array.GetLength(1)}");
 }
@@ -57,4 +57,4 @@ void srAr(int[,] array)
 
 int[,] matrix = CreateMatrix(3, 4, 0, 9);
 PrintMatrix(matrix);
-srAr(matrix);
+SredneeArifmetic(matrix);
