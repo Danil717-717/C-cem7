@@ -31,5 +31,8 @@ void PrintMatrix(int[,] array)
            
 }
 
-int[,] matrix = CreateMatrix(5, 3, 0, 99);
+int[,] matrix = CreateMatrix(7, 7, 0, 999);
+
+int length = matrix.Length;         // общее число элементов 
+Console.WriteLine($"Общее количество элементов: {length}");                // двумерного массива 
 PrintMatrix(matrix);
