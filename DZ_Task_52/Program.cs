@@ -48,7 +48,6 @@ void SredneeArifmetic(int[,] array)
         arithmeticMean = Math.Round(arithmeticMean / array.GetLength(0), 1);
         Console.WriteLine($"Среднее арифметическое {i + 1} столбца ->  {arithmeticMean}");
     }
-        //Console.WriteLine($"Cреднее арифметическое элементов столбца {j + 1} = {(double)srAr / array.GetLength(1)}");
 }
 
 
